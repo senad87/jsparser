@@ -1,2 +1,13 @@
 .DS_Store
 node_modules
+.idea/encodings.xml
+
+.idea/jsparser.iml
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/vcs.xml
+
+.idea/workspace.xml
