@@ -5,6 +5,15 @@ An ECMAScript 5.1 parser, written in JavaScript. The ECMAScript grammar was crea
 
 A blog post describing the project is available [here](http://cjihrig.com/blog/creating-a-javascript-parser/). You can also test the parser online [here](http://www.cjihrig.com/development/jsparser/).
 
+# Running tests
+    ```
+    npm install
+    ```
+    then
+    ```
+    node test/ast.js
+    ```
+
 # Node Usage
 
 Require the `jsparser` module, then simply call the parser's `parse()` method on a string of JavaScript source code. On success, an AST is returned. On failure, an error is thown.
