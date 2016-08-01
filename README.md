@@ -10,9 +10,9 @@ A blog post describing the project is available [here](http://cjihrig.com/blog/c
     npm install
 ```
   
-```
-    then
+  then
     
+``` 
     node test/ast.js
 ```
 
